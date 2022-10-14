@@ -1,0 +1,30 @@
+.page-container {
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+}
+
+#tourism-logo {
+    width: 15rem;
+    margin-left: 0.5rem;
+}
+
+.external-links {
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.7rem;
+}
+
+.external-links > * {
+    margin: 1rem;
+}
+
+.contact-info {
+    margin-right: 2rem;
+}
