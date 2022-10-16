@@ -53,7 +53,7 @@ body {
   text-align: center;
   background-color: var(--color-body);
   margin: 0;
-  overscroll-behavior-x: none;
+  overscroll-behavior-y: none;
 }
 
 a {
