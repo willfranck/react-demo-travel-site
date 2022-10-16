@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-demo-travel-site/static/css/main.5c4b1298.css",
+    "main.css": "/react-demo-travel-site/static/css/main.6cdc330e.css",
     "main.js": "/react-demo-travel-site/static/js/main.537cf870.js",
     "static/media/gta_v_chiliad.jpg": "/react-demo-travel-site/static/media/gta_v_chiliad.3630573c05ebb044182c.jpg",
     "static/media/gta_v_travelogue.jpg": "/react-demo-travel-site/static/media/gta_v_travelogue.9275bb694e248b9de91a.jpg",
@@ -16,11 +16,11 @@
     "static/media/DharmaGothicC-Bold.woff": "/react-demo-travel-site/static/media/DharmaGothicC-Bold.295778b42b008342d74b.woff",
     "static/media/signpainter_houseslant_regular-webfont.woff": "/react-demo-travel-site/static/media/signpainter_houseslant_regular-webfont.0035339b7b60d62999e2.woff",
     "index.html": "/react-demo-travel-site/index.html",
-    "main.5c4b1298.css.map": "/react-demo-travel-site/static/css/main.5c4b1298.css.map",
+    "main.6cdc330e.css.map": "/react-demo-travel-site/static/css/main.6cdc330e.css.map",
     "main.537cf870.js.map": "/react-demo-travel-site/static/js/main.537cf870.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c4b1298.css",
+    "static/css/main.6cdc330e.css",
     "static/js/main.537cf870.js"
   ]
 }
