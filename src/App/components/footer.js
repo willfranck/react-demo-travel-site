@@ -2,7 +2,7 @@ function Footer() {
     return (
         <footer className='flex'>
             <div id='tourism-logo'>
-                <img src={require('../../assets/images/gta_v_tourism_clear.png')} alt='San Andreas Tourism logo'></img>
+                <img src={require('../../assets/images/gta_v_tourism_clear.webp')} alt='San Andreas Tourism logo'></img>
             </div>
 
             <div className='external-links flex'>

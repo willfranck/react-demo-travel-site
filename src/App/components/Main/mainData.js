@@ -1,7 +1,7 @@
 //eslint-disable-next-line
 export default {
   hero: {
-    img: require("../../../assets/images/gta_v_travelogue.jpg"),
+    img: require("../../../assets/images/gta_v_travelogue.webp"),
     title1: "WELCOME TO",
     title2: "SAN ANDREAS",
     title3: "FAME... LUXURY... CELEBRITY ADJACENT...",
@@ -36,28 +36,28 @@ export default {
   articles: [
     {
       key: "Vespucci",
-      img: require("../../../assets/images/gta_v_vespucci.jpg"),
+      img: require("../../../assets/images/gta_v_vespucci.webp"),
       title: "Vespucci Beach",
       description:
         "Sun, sand, ocean vibes, uncapped needles... Vespucci has it all!\u00a0 Soak it up and take a walk on the Del Perro Pier.\u00a0 The homeless camp underneath it throw great parties on Thursday",
     },
     {
       key: "Downtown",
-      img: require("../../../assets/images/gta_v_downtown.jpg"),
+      img: require("../../../assets/images/gta_v_downtown.webp"),
       title: "Downtown Vinewood",
       description:
         "After the sun sets, cruise down Vinewood Blvd and grab some photos for your Life Invader page.\u00a0 The Diamond Casino & Resort is a must!\u00a0 Finish the night off in a high class way at Vanilla Unicorn",
     },
     {
       key: "Observatory",
-      img: require("../../../assets/images/gta_v_observatory.jpg"),
+      img: require("../../../assets/images/gta_v_observatory.webp"),
       title: "Galileo Observatory",
       description:
         "Head up through the Vinewood Hills to feel what real entitlement is like and stop off at the Observatory.\u00a0 Gaze back down at the city and get caught up in the false sense of grandeur",
     },
     {
       key: "Chiliad",
-      img: require("../../../assets/images/gta_v_chiliad.jpg"),
+      img: require("../../../assets/images/gta_v_chiliad.webp"),
       title: "Mount Chiliad",
       description:
         "When the strange guy on the corner says 'Take a hike!'... Do it!\u00a0 Head north to Paleto Bay, take in the sights, and hike up to the ski lodge atop Chiliad.\u00a0 63% of hikers return and that's a number we can live with",

@@ -72,7 +72,7 @@ function Main() {
                 description={articles.description}
             />
 
-            <Zoom cascade damping={0.2} duration={1100} className='testimonial-container'>
+            <Zoom cascade damping={0.2} duration={1100} triggerOnce={true} className='testimonial-container'>
                 {tstElements}:
             </Zoom>
        </main>
