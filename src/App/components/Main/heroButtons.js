@@ -9,6 +9,7 @@ function Button(buttonProps) {
     return (
         <button
             className='hero-button'
+            aria-label={buttonProps.aria}
             style={activeColor}
             onClick={buttonProps.setactive}
             >

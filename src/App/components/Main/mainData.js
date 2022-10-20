@@ -14,21 +14,25 @@ export default {
     {
       key: 0,
       label: "fa-solid fa-water fa-2xl",
+      aria: "Vespucci Beach",
       active: true,
     },
     {
       key: 1,
       label: "fa-solid fa-city fa-2xl",
+      aria: "Downtown Vinewood",
       active: false,
     },
     {
       key: 2,
       label: "fa-solid fa-landmark fa-2xl",
+      aria: "Galileo Observatory",
       active: false,
     },
     {
       key: 3,
       label: "fa-solid fa-mountain fa-2xl",
+      aria: "Mount Chiliad",
       active: false,
     },
   ],

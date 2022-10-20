@@ -31,6 +31,7 @@ function Main() {
         <Button 
             key={buttonProps.key}
             label={buttonProps.label}
+            aria={buttonProps.aria}
             active={buttonProps.active}
             setactive={() => setButtonActive(buttonProps.key)}
         />

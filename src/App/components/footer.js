@@ -6,9 +6,9 @@ function Footer() {
             </div>
 
             <div className='external-links flex'>
-                <a href='//twitter.com'><i className='fa-brands fa-twitter fa-2xl'></i></a>
-                <a href='//instagram.com'><i className='fa-brands fa-instagram fa-2xl'></i></a>
-                <a href='//facebook.com'><i className='fa-brands fa-facebook fa-2xl'></i></a>
+                <a href='//twitter.com' aria-label='Twitter'><i className='fa-brands fa-twitter fa-2xl'></i></a>
+                <a href='//instagram.com' aria-label='Instagram'><i className='fa-brands fa-instagram fa-2xl'></i></a>
+                <a href='//facebook.com' aria-label='Facebook'><i className='fa-brands fa-facebook fa-2xl'></i></a>
             </div>
 
             <div className='contact-info'>
