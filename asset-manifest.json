@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-demo-travel-site/static/css/main.6cdc330e.css",
-    "main.js": "/react-demo-travel-site/static/js/main.537cf870.js",
-    "static/media/gta_v_chiliad.jpg": "/react-demo-travel-site/static/media/gta_v_chiliad.3630573c05ebb044182c.jpg",
-    "static/media/gta_v_travelogue.jpg": "/react-demo-travel-site/static/media/gta_v_travelogue.9275bb694e248b9de91a.jpg",
+    "main.css": "/react-demo-travel-site/static/css/main.e8e29b04.css",
+    "main.js": "/react-demo-travel-site/static/js/main.0ce3c1bb.js",
+    "static/media/gta_v_travelogue.webp": "/react-demo-travel-site/static/media/gta_v_travelogue.15645aa1bb8dbe484ffa.webp",
     "static/media/fa-solid-900.ttf": "/react-demo-travel-site/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
-    "static/media/gta_v_observatory.jpg": "/react-demo-travel-site/static/media/gta_v_observatory.3245a7e4dbe2ba4006ad.jpg",
-    "static/media/gta_v_tourism_clear.png": "/react-demo-travel-site/static/media/gta_v_tourism_clear.d65e2e5a4bfeb27d1c1a.png",
+    "static/media/gta_v_chiliad.webp": "/react-demo-travel-site/static/media/gta_v_chiliad.e4ee25c855543cca44b1.webp",
+    "static/media/gta_v_observatory.webp": "/react-demo-travel-site/static/media/gta_v_observatory.788932f7b2accba44023.webp",
     "static/media/fa-brands-400.ttf": "/react-demo-travel-site/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
-    "static/media/gta_v_downtown.jpg": "/react-demo-travel-site/static/media/gta_v_downtown.9c5729d5d3789d8301cb.jpg",
     "static/media/fa-solid-900.woff2": "/react-demo-travel-site/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/gta_v_downtown.webp": "/react-demo-travel-site/static/media/gta_v_downtown.024602dcfc2e686ffb72.webp",
     "static/media/fa-brands-400.woff2": "/react-demo-travel-site/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
-    "static/media/gta_v_vespucci.jpg": "/react-demo-travel-site/static/media/gta_v_vespucci.7e7abb9f06abda12c64f.jpg",
+    "static/media/gta_v_vespucci.webp": "/react-demo-travel-site/static/media/gta_v_vespucci.9989d8839e05026870e9.webp",
+    "static/media/gta_v_tourism_clear.webp": "/react-demo-travel-site/static/media/gta_v_tourism_clear.f9a6c263756c755eb0a5.webp",
     "static/media/signpainter_housescript_regular-webfont.woff": "/react-demo-travel-site/static/media/signpainter_housescript_regular-webfont.3db0178301aee0241f22.woff",
     "static/media/DharmaGothicC-Bold.woff": "/react-demo-travel-site/static/media/DharmaGothicC-Bold.295778b42b008342d74b.woff",
     "static/media/signpainter_houseslant_regular-webfont.woff": "/react-demo-travel-site/static/media/signpainter_houseslant_regular-webfont.0035339b7b60d62999e2.woff",
     "index.html": "/react-demo-travel-site/index.html",
-    "main.6cdc330e.css.map": "/react-demo-travel-site/static/css/main.6cdc330e.css.map",
-    "main.537cf870.js.map": "/react-demo-travel-site/static/js/main.537cf870.js.map"
+    "main.e8e29b04.css.map": "/react-demo-travel-site/static/css/main.e8e29b04.css.map",
+    "main.0ce3c1bb.js.map": "/react-demo-travel-site/static/js/main.0ce3c1bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cdc330e.css",
-    "static/js/main.537cf870.js"
+    "static/css/main.e8e29b04.css",
+    "static/js/main.0ce3c1bb.js"
   ]
 }
