@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-demo-travel-site/static/css/main.42167be8.css",
-    "main.js": "/react-demo-travel-site/static/js/main.51822dea.js",
+    "main.css": "/react-demo-travel-site/static/css/main.e5325691.css",
+    "main.js": "/react-demo-travel-site/static/js/main.d1ec96e0.js",
     "static/media/gta_v_travelogue.webp": "/react-demo-travel-site/static/media/gta_v_travelogue.15645aa1bb8dbe484ffa.webp",
     "static/media/fa-solid-900.ttf": "/react-demo-travel-site/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/gta_v_chiliad.webp": "/react-demo-travel-site/static/media/gta_v_chiliad.e4ee25c855543cca44b1.webp",
@@ -16,11 +16,11 @@
     "static/media/DharmaGothicC-Bold.woff": "/react-demo-travel-site/static/media/DharmaGothicC-Bold.295778b42b008342d74b.woff",
     "static/media/signpainter_houseslant_regular-webfont.woff": "/react-demo-travel-site/static/media/signpainter_houseslant_regular-webfont.0035339b7b60d62999e2.woff",
     "index.html": "/react-demo-travel-site/index.html",
-    "main.42167be8.css.map": "/react-demo-travel-site/static/css/main.42167be8.css.map",
-    "main.51822dea.js.map": "/react-demo-travel-site/static/js/main.51822dea.js.map"
+    "main.e5325691.css.map": "/react-demo-travel-site/static/css/main.e5325691.css.map",
+    "main.d1ec96e0.js.map": "/react-demo-travel-site/static/js/main.d1ec96e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.42167be8.css",
-    "static/js/main.51822dea.js"
+    "static/css/main.e5325691.css",
+    "static/js/main.d1ec96e0.js"
   ]
 }
