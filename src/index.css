@@ -5,9 +5,9 @@
 }
 
 :root {
-	--font-body: 'Signpainter Script', 'Exo', sans-serif;
-	--font-title: 'Dharma Gothic C', 'Exo', sans-serif;
-	--font-title-h4: 'Signpainter Slant', 'Exo', sans-serif;
+	--font-body: 'Signpainter Script', sans-serif;
+	--font-title: 'Dharma Gothic C', sans-serif;
+	--font-title-h4: 'Signpainter Slant', sans-serif;
 
 	--font-size-largest: clamp(5rem, 18vw, 16rem);
 	--font-size-larger: clamp(2rem, 9vw, 5rem);
