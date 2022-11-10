@@ -1,14 +1,25 @@
+import { Routes, Route } from 'react-router-dom'
+import './assets/fontawesome/css/fontawesome.css'
+import './assets/fontawesome/css/solid.css'
+import './assets/fontawesome/css/brands.css'
 import './App.css'
-import Main from './components/Main/main'
+import Main from './pages/Main'
 import Footer from './components/footer'
 
 function App() {
-    return (
-        <div className='page-container flex'>
-            <Main />
-            <Footer />
-        </div>
-    )
+	return (
+		<Routes>
+			<Route
+				path="/react-demo-travel-site"
+				element={
+					<>
+						<Main />
+						<Footer />
+					</>
+				}
+			></Route>
+		</Routes>
+	)
 }
 
-export default App;
+export default App
