@@ -3,7 +3,7 @@
 Hosted at:  https://willfranck.github.io/react-demo-travel-site/
 
 
-This is my first React project focusing on best practices and performance.  The components are easily reusable, maintainable, and refactorable.  The file tree is structured in a clean and intuitive manner as well
+This is my first React project focusing on best practices and performance.  Components are easily reusable, maintainable, and refactorable.  The file tree is structured in a clean and intuitive manner as well
 
 
 Results from Lighthouse testing:
