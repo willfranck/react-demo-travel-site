@@ -48,19 +48,27 @@ function Main() {
 	return (
 		<main className="content-container flex">
 			<section className="hero flex">
-				<div className="hero-splash-image" style={{ backgroundImage: `url(${heroProps.img})` }}></div>
+				<div 
+					className="hero-splash-image"
+					style={{ backgroundImage: `url(${heroProps.img})` }}
+				>
+				</div>
 				<div className="hero-title flex">
 					<h2>{heroProps.title1}</h2>
 					<h1>{heroProps.title2}</h1>
 				</div>
-				<h3 id="hero-title-sub">{heroProps.title3}</h3>
+				<h3 id="hero-title-sub">
+					{heroProps.title3}
+				</h3>
 				<p>{heroProps.p1}</p>
 				<p>{heroProps.p2}</p>
 				<div className="hero-slogan flex">
 					<h2>{heroProps.title2}</h2>
 					<h4>{heroProps.slogan}</h4>
 				</div>
-				<div className="hero-buttons flex">{buttonElements}</div>
+				<div className="hero-buttons flex">
+					{buttonElements}
+				</div>
 			</section>
 
 			<Article
@@ -70,7 +78,12 @@ function Main() {
 				description={articles.description}
 			/>
 
-			<Zoom cascade damping={0.2} duration={1100} triggerOnce={true} className="testimonial-container">
+			<Zoom
+				cascade damping={0.2}
+				duration={1100}
+				triggerOnce={true}
+				className="testimonial-container"
+			>
 				{tstElements}:
 			</Zoom>
 		</main>
